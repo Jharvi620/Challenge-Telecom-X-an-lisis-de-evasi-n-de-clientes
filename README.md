@@ -72,5 +72,5 @@ Basado en los datos, se proponen las siguientes estrategias de negocio:
 
 Si tienes dudas sobre este análisis o quieres aportar, ¡contáctame!
 * **Tu Nombre**
-* [LinkedIn](TU_LINK_DE_LINKEDIN)
-* [Email](mailto:tuemail@ejemplo.com)
+* [LinkedIn]([TU_LINK_DE_LINKEDIN](https://www.linkedin.com/in/jharvi-nu%C3%B1ez-martinez-98318b289/))
+* [Email](jharvimartinez@gmail.com)
